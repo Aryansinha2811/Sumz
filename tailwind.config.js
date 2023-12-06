@@ -5,9 +5,9 @@ export default {
     extend: {
       fontFamily: {
         satoshi: ['Satoshi', 'sans-serif'],
-        inter: ['Inter', 'sans-serif'],
-      }
-    },
+    //     inter: ['Inter', 'sans-serif'],
+    //   }
+    // },
   },
   plugins: [],
 }
